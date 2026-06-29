@@ -1,7 +1,7 @@
 # Personal introduction
 # About
 
-My name is **Naveen**. I am learing skills and improve in my knowledge. I am currenty focuing on my studies and developing my technical works.
+My name is **Naveen**. I am learing skills and improve in my knowledge. I am currenty focuing on my studies and developing my technical works.  I am working at **Datatech Genius** as a **Software Developer Trainee**
 
 ## My skills
 
