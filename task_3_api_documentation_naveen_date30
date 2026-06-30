@@ -1,4 +1,4 @@
-# ````markdown
+# markdown
 # User Management API Documentation
 
 ## Overview
@@ -297,4 +297,4 @@ Authorization: Bearer eyJhbGciOiJIUzI1Ni...
 - Horizontal Rules (`---`)
 - Bold Text
 - Inline Code
-````
+
