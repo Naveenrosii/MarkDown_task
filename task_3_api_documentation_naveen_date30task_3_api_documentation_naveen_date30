@@ -1,4 +1,3 @@
-# Markdown
 # User Management API Documentation
 
 ## Overview
@@ -17,17 +16,19 @@ https://api.example.com/v1
 
 ---
 
-# Table of Contents
+## Table of Contents
 
-1. Login API
-2. Register API
-3. Get User API
-4. Common Request Headers
-5. Common Error Responses
+1. [Login API](#1-login-api)
+2. [Register API](#2-register-api)
+3. [Get User API](#3-get-user-api)
+4. [Common Request Headers](#common-request-headers)
+5. [Common Error Responses](#common-error-responses)
+6. [API Workflow](#api-workflow)
+7. [API Summary](#api-summary)
 
 ---
 
-# Common Request Headers
+## Common Request Headers
 
 | Header | Required | Description |
 |---------|----------|-------------|
@@ -37,9 +38,9 @@ https://api.example.com/v1
 
 ---
 
-# 1. Login API
+## 1. Login API
 
-## Endpoint Details
+### Endpoint Details
 
 | Property | Value |
 |----------|-------|
@@ -107,9 +108,9 @@ https://api.example.com/v1
 
 ---
 
-# 2. Register API
+## 2. Register API
 
-## Endpoint Details
+### Endpoint Details
 
 | Property | Value |
 |----------|-------|
@@ -176,9 +177,9 @@ https://api.example.com/v1
 
 ---
 
-# 3. Get User API
+## 3. Get User API
 
-## Endpoint Details
+### Endpoint Details
 
 | Property | Value |
 |----------|-------|
@@ -242,7 +243,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1Ni...
 
 ---
 
-# Common Error Responses
+## Common Error Responses
 
 | Status Code | Error | Description |
 |-------------|-------|-------------|
@@ -255,7 +256,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1Ni...
 
 ---
 
-# API Workflow
+## API Workflow
 
 - User Registration
   - Fill in registration form.
@@ -277,7 +278,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1Ni...
 
 ---
 
-# API Summary
+## API Summary
 
 | API | Method | Endpoint | Authentication |
 |-----|--------|----------|----------------|
@@ -297,4 +298,3 @@ Authorization: Bearer eyJhbGciOiJIUzI1Ni...
 - Horizontal Rules (`---`)
 - Bold Text
 - Inline Code
-
